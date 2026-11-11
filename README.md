@@ -33,7 +33,7 @@ Each subject README is intended to capture:
 
 This is a personal attempt to distill the conceptual backbone of my master's degree into a structured and reusable robotics knowledge stack.
 
-## License
+## LICENSE
 
 This repository is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. See [LICENSE](LICENSE) for details.
 
